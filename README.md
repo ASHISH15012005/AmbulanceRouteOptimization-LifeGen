@@ -11,8 +11,8 @@ The **start_Genetic_Algorithm** function initializes and evolves a population of
 The **scheduling_ambulance** function sorts patient calls based on severity and assigns available ambulances routes using the genetic algorithm. It ensures that ambulances are assigned to calls based on patient urgency and the availability of ambulances.
 
 ## In the main program section
-1.The grid layout is generated with specified dimensions.
-2.Patient calls are defined, including their start and goal positions along with severity levels.
-3.Available ambulances are initialized.
-4.Ambulances are scheduled based on patient severity, and optimal routes are assigned to them using the genetic algorithm. 
-5.Finally, the optimal routes for each ambulance are printed along with relevant details. This code provides a foundation for developing a system to optimize ambulance routing in emergency scenarios, aiming to minimize response time and maximize patient care efficiency within a grid-based environment.
+1.The grid layout is generated with specified dimensions. <br>
+2.Patient calls are defined, including their start and goal positions along with severity levels.<br>
+3.Available ambulances are initialized.<br>
+4.Ambulances are scheduled based on patient severity, and optimal routes are assigned to them using the genetic algorithm.<br> 
+5.Finally, the optimal routes for each ambulance are printed along with relevant details. This code provides a foundation for developing a system to optimize ambulance routing in emergency scenarios, aiming to minimize response time and maximize patient care efficiency within a grid-based environment.<br>
